@@ -1,6 +1,7 @@
 - 👋  Hi, I’m Bharath Bandaru.
 - 👀  I worked as a Software Engineer for JP Morgan Chase from 2017 - 2021.
-- 🌱  I’m currently pursuing my master's in AI.
+- 🌱  I pursued my master's in AI.
+- 🧑‍💻  I am working as Software Engineer at Script Health.
 - 📫  How to reach me? Hit a mail to bandarubharath@live.com
 - Here is my website <a href="http:/www.bharathbandaru.com">link</a> <- checkout!
 
