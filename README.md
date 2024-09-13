@@ -3,7 +3,7 @@
 - 🌱  I pursued my master's in AI.
 - 🧑‍💻  I am working as Software Engineer at Script Health.
 - 📫  How to reach me? Hit a mail to bandarubharath@live.com
-- Here is my website <a href="http:/www.bharathbandaru.com">link</a> <- checkout!
+- Here is my portfolio <a href="http:/www.bharathbandaru.com](https://portfolio-4a2e3.web.app/">link</a> <- checkout!
 
 <!---
 bharath-bandaru/bharath-bandaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
