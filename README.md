@@ -4,6 +4,7 @@
 - 🧑‍💻  I am working as Software Engineer at Script Health.
 - 📫  How to reach me? Hit a mail to bandarubharath@live.com
 - 🎭  Here is my portfolio <a href="https://portfolio-4a2e3.web.app/">link</a> <- checkout!
+- 🎮 Check out the game I designed and created <a href="https://bharath-bandaru.github.io/chain-reaction-game/">link</a> <- checkout!
 
 <!---
 bharath-bandaru/bharath-bandaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
