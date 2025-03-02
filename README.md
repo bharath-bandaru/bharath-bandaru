@@ -2,7 +2,7 @@
 - 👀  I worked as a Software Engineer for JP Morgan Chase from 2017 - 2021.
 - 🌱  I pursued my master's in AI.
 - 🧑‍💻  I am working as Software Engineer at Script Health.
-- 🎭  Here is my portfolio <a href="https://portfolio-4a2e3.web.app/">link</a> <- checkout!
+- 🎭  Here is my portfolio <a href="https://bharath-bandaru.github.io/">link</a> <- checkout!
 - 🎮 Check out the game I designed and created <a href="https://bharath-bandaru.github.io/chain-reaction-game/">link</a> <- checkout!
 - 📫  How to reach me? Hit a mail to bandarubharath@live.com
 
